@@ -2,7 +2,7 @@ import React from 'react'
 
 function Todaypage() {
   return (
-    <div></div>
+    <div>Today</div>
   )
 }
 

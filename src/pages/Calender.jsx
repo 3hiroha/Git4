@@ -2,7 +2,7 @@ import React from 'react'
 
 function Calender() {
   return (
-    <div></div>
+    <div>Calendar</div>
   )
 }
 
